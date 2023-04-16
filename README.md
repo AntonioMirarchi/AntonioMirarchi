@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on NNP for Molecular Dynamic<br>
-⚡ My long-term career goal  is to develop new generalized <br>computational tools to overcome the slowest process of <br>drug development and to maintain at the same time the safety <br>of drugs.
+⚡ My long-term career goal  is to develop new generalized computational tools to overcome the slowest process of drug development and to maintain at the same time the safety <br>of drugs.
 
 
 ## 🌐 Socials:
