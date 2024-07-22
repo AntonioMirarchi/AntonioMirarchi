@@ -1,7 +1,7 @@
 # Hi there!! 👋
 
 ## 💫 About Me:
-🔭 I’m currently working on NNP for Molecular Dynamic<br>
+🔭 I’m currently working on NNPs for molecular dynamics<br>
 ⚡ My long-term professional goal is to develop new generalized computational tools to overcome slower processes in drug development while maintaining drug safety.
 
 
@@ -14,9 +14,6 @@
 ## 📊 GitHub Stats:
 <a href="https://github.com/RaulPPelaez">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=AntonioMirarchi&theme=dark&hide_border=false" />
-</a>
-<a href="https://github.com/RaulPPelaez">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMirarchi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </a>
 
 <!--
