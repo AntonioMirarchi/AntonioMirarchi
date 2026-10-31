@@ -1,9 +1,9 @@
 # Hi there!! 👋
 
-## 💫 About Me:
-🔭 I’m currently working on NNPs for molecular dynamics<br>
-⚡ My long-term professional goal is to develop new generalized computational tools to overcome slower processes in drug development while maintaining drug safety.
+I'm a PhD researcher in computational biophysics at Universitat Pompeu Fabra (UPF) in Barcelona, where I work on neural network potentials and molecular dynamics simulations.
 
+My research focuses on developing machine-learning models to simulate the dynamics of proteins, small molecules, and their interactions. The goal is to improve our understanding of molecular recognition and make the simulation of complex biological processes more accessible, particularly for applications in drug discovery and development.
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-mirarchi-47b6071a2)
